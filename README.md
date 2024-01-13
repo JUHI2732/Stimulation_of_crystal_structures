@@ -3,4 +3,5 @@ The objective of this project is to simulate and visualize different crystal str
 Tools used:
 Python (Pycharm)
 Matplotlib for Data Visualisation
-Numpy for numerical operations
+Numpy for numerical operations.
+Following code can generate the bcc,fcc,hcp crystal lattice structure.
